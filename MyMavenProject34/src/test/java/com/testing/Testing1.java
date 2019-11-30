@@ -24,6 +24,7 @@ public class Testing1 {
   @Test
   public void test2() {
 	  System.out.println("test2");
+	  System.out.println("dhruvi3");
   }
 
   @Test
